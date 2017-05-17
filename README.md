@@ -1,6 +1,6 @@
 # multiple-circular-player
- concept for a multiple circular html5 audio player, using svg 
-
+ Concept for a multiple circular html5 audio player, using svg 
+ HTML5 audio player with a circular SVG progress bar and complete fallback
 
 inspired by https://github.com/frumbert/circular-player
 
