@@ -5,5 +5,7 @@
 inspired by https://github.com/frumbert/circular-player
 
 
+Demo Page : https://kuantal.github.io/Multiple-circular-player/
+
 ## Licence
 MIT.
