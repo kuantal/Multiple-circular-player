@@ -1,0 +1,23 @@
+{
+  "name": "Svg Html Audio Player",
+  "authors": [
+    "İlker Yılmaz <quantalquasar@gmail.com>"
+  ],
+  "description": "multiple circular html5 audio player, using svg HTML5 audio player with a circular SVG progress bar and complete fallback",
+  "main": "player.js",
+  "keywords": [
+    "circular",
+    "html5",
+    "player",
+    "audio",
+    "player",
+    "svg",
+    "jquery",
+    "plugin",
+    "progress",
+    "bar",
+    "loading"
+  ],
+  "license": "MIT",
+  "homepage": "https://kuantal.github.io/Multiple-circular-player/"
+}
