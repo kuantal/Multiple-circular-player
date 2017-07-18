@@ -1,0 +1,29 @@
+{
+  "name": "multiple-audio-player-plugin",
+  "version": "0.0.2",
+  "description": " multiple circular html5 audio player, using svg ",
+  "main": "player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://kuantal.github.io/Multiple-circular-player/"
+  },
+  "keywords": [
+    "Audio",
+    "player",
+    "svg",
+    "html5",
+    "circular",
+    "progresbar",
+    "complate",
+    "fallback",
+    "multiple",
+    "jquery",
+    "plugin",
+    "customizable"
+  ],
+  "author": "ilker YILMAZ",
+  "license": "ISC"
+}
