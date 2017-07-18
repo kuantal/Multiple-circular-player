@@ -9,6 +9,13 @@ Demo Page : https://kuantal.github.io/Multiple-circular-player/
 
 * For custom size change "data-size='250'" tag 
 
+NPM Url       : https://www.npmjs.com/package/multiple-audio-player-plugin 
+
+NPM Install   : npm i multiple-audio-player-plugin
+
+Bower Install :  bower i multiple-circular-player
+
+
 Screenshot:
 
 ![alt text](screenshot.png)
